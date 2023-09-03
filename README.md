@@ -1,2 +1,2 @@
-# EDA_Project
-Telecom churn analysis
+
+# Telecom churn analysis an EDA Project
